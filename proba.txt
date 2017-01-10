@@ -1,1 +1,4 @@
-IZMENA U FAJLU, promena grane, izmena radi konflikta sa granom dva
+
+IZMENA U FAJLU, promena grane, izmena radi konflikta sa granom dv
+grana dva
+
